@@ -1,0 +1,18 @@
+# ===== 用户个人数据（绝不推送 GitHub） =====
+widget-data.json
+widget-data.json.migrated
+widget-backup.json
+widget-backup.json.bak
+widget-state.json
+widget-images.json
+widget-data.json.tmp
+
+# ===== 本地工作区 / 记忆 =====
+.workbuddy/
+
+# ===== 本机快捷方式与临时文件 =====
+*.lnk
+_tmp*
+*.log
+__pycache__/
+*.pyc
